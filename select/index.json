@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "君は天然色",
+  "base_artist": "大滝　詠一",
+  "createdAt": "2026-02-07T07:11:34.382958Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君は天然色",
+      "artist": "大瀧栄一",
+      "has_synced": true,
+      "path": "select/01_君は天然色_大瀧栄一.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君は天然色",
+      "artist": "大滝 詠一",
+      "has_synced": true,
+      "path": "select/02_君は天然色_大滝_詠一.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君は天然色",
+      "artist": "北宇治高校吹奏楽部",
+      "has_synced": false,
+      "path": "select/03_君は天然色_北宇治高校吹奏楽部.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君は天然色",
+      "artist": "大滝詠一",
+      "has_synced": true,
+      "path": "select/04_君は天然色_大滝詠一.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "君は天然色",
+      "artist": "Eiichi Ohtaki",
+      "has_synced": true,
+      "path": "select/05_君は天然色_Eiichi_Ohtaki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君は天然色",
+      "artist": "Eiichi Ohtaki",
+      "has_synced": true,
+      "path": "select/06_君は天然色_Eiichi_Ohtaki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "君は天然色",
+      "artist": "大瀧詠一",
+      "has_synced": true,
+      "path": "select/07_君は天然色_大瀧詠一.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "君は天然色",
+      "artist": "Eiichi Ohtaki",
+      "has_synced": false,
+      "path": "select/08_君は天然色_Eiichi_Ohtaki.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "君は天然色",
+      "artist": "Eichii Ohtaki",
+      "has_synced": true,
+      "path": "select/09_君は天然色_Eichii_Ohtaki.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "君は天然色 [You Are Natural Color]",
+      "artist": "大滝詠一 (Eiichi Ohtaki)",
+      "has_synced": true,
+      "path": "select/10_君は天然色_[You_Are_Natural_Color]_大滝詠一_(Eiichi_Ohtaki).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "君は天然色 (Kimiwa Tennenshoku)",
+      "artist": "Eiichi Ohtaki",
+      "has_synced": true,
+      "path": "select/11_君は天然色_(Kimiwa_Tennenshoku)_Eiichi_Ohtaki.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "君は天然色",
+      "artist": "川崎鷹也",
+      "has_synced": true,
+      "path": "select/12_君は天然色_川崎鷹也.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "君は天然色 (2021 Ver.)",
+      "artist": "大瀧詠一",
+      "has_synced": true,
+      "path": "select/13_君は天然色_(2021_Ver.)_大瀧詠一.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君は天然色",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_01_君は天然色_大滝_詠一.txt"
+    }
+  ]
+}
